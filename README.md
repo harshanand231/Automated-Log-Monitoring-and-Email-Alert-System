@@ -109,8 +109,6 @@ ERROR: API latency high
 
 ## 🎯 Resume Impact
 
-You can mention this project as:
-
 > *Built an automated log monitoring system that detects production errors and sends real-time email alerts using Python and SMTP.*
 
 ---
