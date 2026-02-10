@@ -1,0 +1,7 @@
+INFO: Server started successfully
+INFO: Database connected
+ERROR: Payment service failed
+INFO: User logged in
+ERROR: Static route timeout
+INFO: Request completed
+ERROR: API latency high
